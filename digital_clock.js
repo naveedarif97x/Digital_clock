@@ -1,0 +1,1 @@
+console.log("This is new digital_clock empty without color")
